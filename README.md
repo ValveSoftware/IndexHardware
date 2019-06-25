@@ -14,7 +14,7 @@ Each folder contains high resolution step models.  We've also provided drawings 
 The [Frunk](Headset/frunk_ref_drawing.pdf) is the volume in the front of the headset meant to host accessories.  It has a USB 3 type A port capable of 1A@5V piped back to the host computer.
 
 
-For larger creations, please see the [sensor inclusion zone model](Headset/index_hmd_accessory_inclusion_zone.stp).  This model represents the volume that your design can occupy without occluding cameras or sensors.
+For larger creations, please see the [sensor inclusion zone model](Headset/index_hmd_accessory_inclusion_zone.stp.zip).  This model represents the volume that your design can occupy without occluding cameras or sensors.
 
 ![sensor exclusion image](Headset/sensor_exclusion.jpg)
 
@@ -24,12 +24,12 @@ We strongly recommend against removing the frunk plastic, as it can impact your 
 
 ### Visor
 
-The [Visor](Headset/index_hmd_visor.stp) is held in place with 4 magnets for easy removal and replacement.  Although the shipping visor is translucent, you can customize this without fear of occlusion - no sensors or cameras look "through" the visor.
+The [Visor](Headset/index_hmd_visor.stp.zip) is held in place with 4 magnets for easy removal and replacement.  Although the shipping visor is translucent, you can customize this without fear of occlusion - no sensors or cameras look "through" the visor.
 
 
 ### Face Gasket
 
-The [Face Gasket](Headset/index_hmd_facegasket.stp) also is held in place by magnets for easy removal and replacement. The CAD will allow you to recreate the surface and features to attach to the HMD, allowing you to create your own personalized face gasket.
+The [Face Gasket](Headset/index_hmd_facegasket.stp.zip) also is held in place by magnets for easy removal and replacement. The CAD will allow you to recreate the surface and features to attach to the HMD, allowing you to create your own personalized face gasket.
 
 ### Head Strap & Audio
 
@@ -52,7 +52,7 @@ Every input of the controller has capacitive sensing: the thumbstick, trackbutto
 
 ![capsense surfaces](Controller/capsense_surfaces.jpg)
 
-The [sensor inclusion zone model](Controller/index_controller_inclusion_zone.stp) shows the available volume to work with to not occlude any of the tracking sensors.  Unsurprisingly, it looks a bit like a forearm and hand.  
+The [sensor inclusion zone model](Controller/index_controller_inclusion_zone.stp.zip) shows the available volume to work with to not occlude any of the tracking sensors.  Unsurprisingly, it looks a bit like a forearm and hand.  
 
 Some large accessories will exceed this volume.  During your design process for these:
 1. Consider what positions are important for your gameplay.
@@ -61,7 +61,7 @@ Some large accessories will exceed this volume.  During your design process for 
 
 ![sensor exclusion image](Controller/sensor_exclusion.jpg)
 
-The [accessory example](Controller/index_controller_example.stp) is a "Booster" for the Index Controller. The Booster is essentially a shell that wraps around the grip portion of the Index Controller. It serves two primary functions:
+The [accessory example](Controller/index_controller_example.stp.zip) is a "Booster" for the Index Controller. The Booster is essentially a shell that wraps around the grip portion of the Index Controller. It serves two primary functions:
 
 1. For people with longer thumbs, the handle booster shifts the hand backwards a bit to place the buttons and thumb stick closer to the thumb tip. It may also make the grip more comfortable for those with larger hands, particularly during longer play sessions.
 2. The handle booster provides a reference design for anyone wishing to create a mechanically mounted accessory to the Index controller in a way that doesn’t directly interfere with or occlude any of the optical tracking sensors, finger sensors, or input controls. This is valuable because any given controller design must trade-off between tool vs hand presence, and an accessory allows a user to quickly adapt it to any number of applications.
