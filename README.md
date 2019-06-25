@@ -52,7 +52,7 @@ Every input of the controller has capacitive sensing: the thumbstick, trackbutto
 
 ![capsense surfaces](Controller/capsense_surfaces.jpg)
 
-The [sensor inclusion zone model](Controller/index_controller_inclusion_zone.stp.zip) shows the available volume to work with to not occlude any of the tracking sensors.  Unsurprisingly, it looks a bit like a forearm and hand.  
+The [sensor inclusion zone model](Controller/index_controller_sensor_inclusion.stp.zip) shows the available volume to work with to not occlude any of the tracking sensors.  Unsurprisingly, it looks a bit like a forearm and hand.  
 
 Some large accessories will exceed this volume.  During your design process for these:
 1. Consider what positions are important for your gameplay.
