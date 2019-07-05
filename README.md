@@ -70,4 +70,4 @@ The [accessory example](Controller/index_controller_example.stp.zip) is a "Boost
 ## Basestation
 ![3 isometric](Basestation/3base.png)
 
-The Basestation has a pair of 1/4-20 UNC x_______ threaded holes for mounting - this is the same standard many cameras use, so you may find off-the-shelf devices that already fit your need. 
+The Basestation has a pair of 1/4-20 UNC threaded holes for mounting - this is the same standard many cameras use, so you may find off-the-shelf devices that already fit your need. 
